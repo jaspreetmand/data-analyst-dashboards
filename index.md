@@ -34,9 +34,9 @@
 
 | Project | Preview |
 |---------|---------|
-| [**Portfolio Management Tracking**](projects/portfolio-management-tracking/README.md) <br/> Centralized metrics for executives and client reporting | [![Portfolio Tracking](projects/portfolio-management-tracking/screenshot.png)](projects/portfolio-management-tracking/README.md) |
-| [**Submarket Usage**](projects/submarket-usage/README.md) <br/> Market-level dashboard for hiring & resource planning | [![Submarket Usage](projects/submarket-usage/screenshot.png)](projects/submarket-usage/README.md) |
-| [**Listing & Building Metrics**](projects/listing-building-metrics/README.md) <br/> Auto-updating tables for board decks | [![Listing Metrics](projects/listing-building-metrics/screenshot.png)](projects/listing-building-metrics/README.md) |
+| [**Portfolio Management Tracking**](portfolio-management-tracking/README.md) <br/> Centralized metrics for executives and client reporting | [![Portfolio Tracking](portfolio-management-tracking/screenshot.png)](portfolio-management-tracking/README.md) |
+| [**Submarket Usage**](submarket-usage/README.md) <br/> Market-level dashboard for hiring & resource planning | [![Submarket Usage](submarket-usage/screenshot.png)](submarket-usage/README.md) |
+| [**Listing & Building Metrics**](listing-building-metrics/README.md) <br/> Auto-updating tables for board decks | [![Listing Metrics](listing-building-metrics/screenshot.png)](listing-building-metrics/README.md) |
 
 </div>
 
