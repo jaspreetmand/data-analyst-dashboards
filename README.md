@@ -27,4 +27,4 @@ Each project folder contains a screenshot and documentation describing the busin
 
 I am a data analyst specializing in building business intelligence dashboards and automated reporting pipelines.
 - Tools: Tableau, SQL, Excel
-- Interests: Commercial Real estate analytics, operations optimization, executive reporting
+- Interests: Commercial Real Estate analytics, operations optimization, executive reporting
