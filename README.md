@@ -3,13 +3,23 @@
 This portfolio showcases selected dashboards I have designed and developed using Tableau and SQL. 
 Each project folder contains a screenshot and documentation describing the business context, dataset, approach, and insights.
 
-## Project Gallery
+## 📊 Project Gallery  
 
-<a href="portfolio-management-tracking/"><img src="portfolio-management-tracking/screenshot.png" alt="Portfolio Management Tracking Dashboard" width="720"></a>
+### [Portfolio Management Tracking](portfolio-management-tracking)  
+[![Portfolio Management Tracking](portfolio-management-tracking/screenshot.png)](portfolio-management-tracking)  
+*Centralized portfolio metrics for executives and managers to track pipeline health, demand trends, and client reporting.*  
 
-<a href="submarket-usage/"><img src="submarket-usage/screenshot.png" alt="Submarket Usage Dashboard" width="720"></a>
+---
 
-<a href="listing-building-metrics/"><img src="listing-building-metrics/screenshot.png" alt="Listing & Building Metrics Dashboard" width="720"></a>
+### [Submarket Usage](submarket-usage)  
+[![Submarket Usage](submarket-usage/screenshot.png)](submarket-usage)  
+*Market-level dashboard showing deal distribution across submarkets to inform hiring and resource allocation.*  
+
+---
+
+### [Listing Building Metrics](listing-building-metrics)  
+[![Listing Building Metrics](listing-building-metrics/screenshot.png)](listing-building-metrics)  
+*Auto-updating tables designed for board decks, streamlining recurring meeting prep with always-fresh data.*  
 
 ---
 
